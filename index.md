@@ -1,6 +1,5 @@
 ---
-title: welcome
 layout: default
 ---
 
-hello
+Hello World 🖤
